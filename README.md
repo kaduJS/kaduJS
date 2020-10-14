@@ -1,6 +1,6 @@
 ### Welcome to my Github !!!
 
-I'm 21, jr front end developer and ready for anything!
+I'm 21, jr. web developer and ready for anything!
 
 ## 💡 knowledges
 
