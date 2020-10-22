@@ -6,4 +6,5 @@ I'm 21, jr. web developer and glad to see u here.
 
 * #### Programming Language: Javascript (Typescript) by nodeJS
 * #### framework: React
+* #### Tests: Runtime Debug, Unit Test and Integration Tests.
 * #### Main libraries: Styled Components, Redux Toolkit, Axios etc...
