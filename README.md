@@ -1,6 +1,6 @@
 ### Welcome to my Github !!!
 
-I'm 21, jr. web developer and glad to see u here.
+I'm 21, jr. web developer, about one year in this world and glad to see u here.
 
 ## 💡 Core knowledges
 
