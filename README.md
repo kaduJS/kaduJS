@@ -6,5 +6,5 @@ I'm 21, jr. developer, about one year in this world and glad to see u here.
 
 * #### Programming Language: Javascript (Typescript) and Python
 * #### frameworks: React
-* #### code check: IDE Debug, Unit Testing, Integration Testing and TDD.
+* #### code check: IDE Debug, Unit Testing, Integration Testing.
 * #### Main libraries: Styled Components, Redux Toolkit, Axios etc...
